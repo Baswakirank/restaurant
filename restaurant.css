@@ -1,0 +1,32 @@
+#home{
+background-color: black;
+}
+.b{
+    font-size: medium;
+    color: white;
+    text-decoration: none;
+    margin-right: 80px;
+
+}
+#rotate{
+    transform: rotate(20deg);
+}
+.item{
+    display: inline-block;
+    margin-right: 55px;
+}
+.wine{
+    display: inline-block;
+    margin-right: 55px;
+}
+.review
+{
+    
+    display: inline-block;
+    margin-right: 55px;
+
+}
+.ts
+{
+    width: 300px;
+}
